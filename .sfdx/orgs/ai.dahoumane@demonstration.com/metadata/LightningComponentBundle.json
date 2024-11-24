@@ -1,4 +1,18 @@
 {
   "status": 0,
-  "result": []
+  "result": [
+    {
+      "createdById": "005Qy000009MrmrIAC",
+      "createdByName": "Aïcha Imène DAHOUMANE",
+      "createdDate": "2024-11-24T02:40:02.000Z",
+      "fileName": "lwc/accountOpportunitiesSearch",
+      "fullName": "accountOpportunitiesSearch",
+      "id": "0RbQy000000yDFJKA2",
+      "lastModifiedById": "005Qy000009MrmrIAC",
+      "lastModifiedByName": "Aïcha Imène DAHOUMANE",
+      "lastModifiedDate": "2024-11-24T02:41:45.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    }
+  ]
 }
